@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/JVR/Scenes/opening.unity
+- path: Assets/JVR/Scenes/main.unity
   isLoaded: 1
   isActive: 1
